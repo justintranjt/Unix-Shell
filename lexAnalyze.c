@@ -1,8 +1,3 @@
-/*--------------------------------------------------------------------*/
-/* Assignment 7                                                       */
-/* lexAnalyze.c                                                       */
-/* Author: Justin Tran                                                */
-/*--------------------------------------------------------------------*/
 #include "dynarray.h"
 #include "lexAnalyze.h"
 #include "token.h"
