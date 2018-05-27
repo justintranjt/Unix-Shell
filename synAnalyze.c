@@ -1,8 +1,3 @@
-/*--------------------------------------------------------------------*/
-/* Assignment 7                                                       */
-/* synAnalyze.c                                                       */
-/* Author: Justin Tran                                                */
-/*--------------------------------------------------------------------*/
 #include "dynarray.h"
 #include "synAnalyze.h"
 #include "command.h"
