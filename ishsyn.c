@@ -1,8 +1,3 @@
-/*--------------------------------------------------------------------*/
-/* Assignment 7                                                       */
-/* ishsyn.c                                                           */
-/* Author: Justin Tran                                                */
-/*--------------------------------------------------------------------*/
 #include "dynarray.h"
 #include "lexAnalyze.h"
 #include "synAnalyze.h"
