@@ -1,10 +1,6 @@
-#----------------------------------------------------------------------#
-#  Assignment 7 Makefile                                               #
-#  Author: Justin Tran                                                 #
-#----------------------------------------------------------------------#
 # Macros
-CC = gcc217
-# CC = gcc217m
+CC = gcc
+# CC = gccm
 
 # Dependency rules for non-file targets
 all: ishlex ishsyn ish
