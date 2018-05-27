@@ -1,14 +1,3 @@
-/*--------------------------------------------------------------------*/
-/* dynarray.c                                                         */
-/* Author: Bob Dondero                                                */
-/*--------------------------------------------------------------------*/
-
-#include "dynarray.h"
-#include <assert.h>
-#include <stdlib.h>
-
-/*--------------------------------------------------------------------*/
-
 /* The minimum physical length of a DynArray object. */
 
 static const size_t MIN_PHYS_LENGTH = 2;
